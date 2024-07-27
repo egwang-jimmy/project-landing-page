@@ -127,3 +127,31 @@ h2{
 .card-text{
     font-size: 18px
 }
+/* qoute-section */
+.qoute-container{
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+    
+.qoute-section{
+    background-color: #e5e7eb;
+}
+
+.qoute{
+    
+    width: 53%;
+    
+}
+blockquote{
+    font-size: 25px;
+    font-weight: 300;
+    color: #1f2937;
+    
+}
+figcaption{
+    text-align: right;
+    font-weight: 700;
+    font-size: 18px;
+}
